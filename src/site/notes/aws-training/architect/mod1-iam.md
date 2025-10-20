@@ -9,3 +9,5 @@
 ![photo_2025-10-20_19-19-01](https://github.com/user-attachments/assets/0ccd871a-bf02-4dde-8041-c9549521be19)
 
 ![PXL_20251020_174930868.jpg](https://github.com/user-attachments/assets/b1516ccd-17d8-4731-aa60-d0dbbfd150ad)
+
+https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_boundaries.html
