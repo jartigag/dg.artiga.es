@@ -4,7 +4,7 @@ https://aws.amazon.com/es/training/learn-about/architect/
 
 ## Identity and Security
 
-- [Introduction to AWS Identity and Access Management (IAM)](mod1.md)
+- [Introduction to AWS Identity and Access Management (IAM)](mod1-iam.md)
 - [[LAB] Introduction to AWS Identity and Access Management (IAM)](mod1-lab.md)
 - AWS Security Fundamentals 2nd Ed.
 - [LAB] Performing a Basic Audit of your AWS Environment
