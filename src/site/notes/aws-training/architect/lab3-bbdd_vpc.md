@@ -1,4 +1,17 @@
-# Lab 3: Creating a Database Layer in Your Amazon VPC Infrastructure 
+# Lab 3: Creating a Database Layer in Your Amazon VPC Infrastructure
+
+The lab environment provides you with the following resources to get started:
+an Amazon Virtual Private Cloud (Amazon VPC),
+underlying necessary network structure,
+3 security groups to control inbound and outbound traffic,
+2 EC2 instances in a private subnet,
+and an associated EC2 instance profile.
+
+The instance profile contains the permissions necessary to allow the AWS Systems Manager Session Manager feature to access the EC2 instance. 
+The following diagram shows the expected architecture of the important lab resources you build and how they should be connected at the end of the lab. 
+
+![](https://github.com/user-attachments/assets/bb7fb3bc-ceab-4e74-9c10-e7f65d3e55d6)
+
 ## Task 1: Create an Amazon VPC in a Region
 ## Task 2: Create public subnets and private subnets
 ## Task 3: Create an internet gateway
