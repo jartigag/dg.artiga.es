@@ -3,7 +3,7 @@
 ```txt
 - 2025.10.27 [ ] completar lab1
 - 2025.10.27 [ ] completar lab2
-- 2025.11.13 [/] completar lab4
+- 2025.11.14 [x] completar lab4
 ```
 
 https://aws.amazon.com/es/training/learn-about/architect/
